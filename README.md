@@ -5,7 +5,7 @@ Mew is a fully responsive and functional portfolio website that contains various
 - CDN's
 - Web API's
 
-Go to website:
+Go to website: https://seliun.github.io/Portfolio-Website/
 
 ## ✨ How It Looks:
 
